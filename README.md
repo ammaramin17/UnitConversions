@@ -67,7 +67,10 @@ Conversions are handled dynamically using `oninput` events.
 ---
 
 ## 🖼️ Preview
-![alt text](<Screenshot 2025-08-06 at 04-29-42 Unit Conversions-1.png>) ![alt text](rgtgtgtg.png)
+<img width="1898" height="1155" alt="Screenshot 2025-08-06 at 04-29-42 Unit Conversions" src="https://github.com/user-attachments/assets/89b0d923-3aee-4642-b357-4210fb9508db" />
+
+<img width="662" height="1957" alt="rgtgtgtg" src="https://github.com/user-attachments/assets/95c9adf1-0dc9-4974-b229-f4e6ee60638f" />
+
 ---
 
 ## 📌 Dependencies
