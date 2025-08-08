@@ -5,6 +5,16 @@ body{
 #unitConv{
     margin-bottom: 0;
 }
+.nav-item:hover{
+    border-bottom: 3px solid rgb(0, 0, 0,0.8);
+}
+@media screen and (max-width:576px){
+    .nav-item:hover{
+    border-bottom: 3px solid rgb(0, 0, 0,0.8);
+    width: 25%;
+    margin: auto;
+    }
+} 
 #tmp{
     border-radius: 10px;
 }
@@ -65,4 +75,7 @@ aside:hover{
 }
 .navbar-nav{
     margin: auto;
+}
+.home-img:hover{
+    border-bottom:3px solid black;
 }
